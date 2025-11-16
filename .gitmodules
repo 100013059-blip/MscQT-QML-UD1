@@ -1,0 +1,3 @@
+[submodule "external/qiskit-textbook"]
+	path = external/qiskit-textbook
+	url = https://github.com/Qiskit/textbook.git
