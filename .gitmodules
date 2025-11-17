@@ -1,3 +1,9 @@
 [submodule "external/qiskit-textbook"]
 	path = external/qiskit-textbook
 	url = https://github.com/Qiskit/textbook.git
+[submodule "external/UIMPIntroToQuantumAI"]
+	path = external/UIMPIntroToQuantumAI
+	url = https://github.com/jbermejovega/UIMPIntroToQuantumAI.git
+[submodule "external/ee046202-unsupervised-learning-data-analysis"]
+	path = external/ee046202-unsupervised-learning-data-analysis
+	url = https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis.git
